@@ -1,0 +1,7 @@
+C:\Users\Raissa\source\repos\TP_MODUL3_103022400030\TP_MODUL3_103022400030\obj\Release\net10.0-windows\TP_MODUL3_103022400030.Form1.resources
+C:\Users\Raissa\source\repos\TP_MODUL3_103022400030\TP_MODUL3_103022400030\obj\Release\net10.0-windows\TP_MODUL3_103022400030.csproj.GenerateResource.cache
+C:\Users\Raissa\source\repos\TP_MODUL3_103022400030\TP_MODUL3_103022400030\obj\Release\net10.0-windows\TP_MODUL3_103022400030.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raissa\source\repos\TP_MODUL3_103022400030\TP_MODUL3_103022400030\obj\Release\net10.0-windows\TP_MODUL3_103022400030.AssemblyInfoInputs.cache
+C:\Users\Raissa\source\repos\TP_MODUL3_103022400030\TP_MODUL3_103022400030\obj\Release\net10.0-windows\TP_MODUL3_103022400030.AssemblyInfo.cs
+C:\Users\Raissa\source\repos\TP_MODUL3_103022400030\TP_MODUL3_103022400030\obj\Release\net10.0-windows\TP_MODUL3_103022400030.csproj.CoreCompileInputs.cache
+C:\Users\Raissa\source\repos\TP_MODUL3_103022400030\TP_MODUL3_103022400030\obj\Release\net10.0-windows\TP_MODUL3_103022400030.sourcelink.json
